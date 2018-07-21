@@ -1,0 +1,9 @@
+x,y,color
+2,1,violeta
+1,2,rojo
+2,5,naranja
+2,6,rojo
+4,2,azul
+5,6,amarillo
+6,1,verde
+6,5,purpura
